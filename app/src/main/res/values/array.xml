@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="filmName">
+        <item>Тренер Картер</item>
+        <item>Интерстеллар</item>
+        <item>Гонка</item>
+        <item>Далласский клуб покупателей</item>
+        <item>Линкольн для адвоката</item>
+    </string-array>
+</resources>
